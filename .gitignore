@@ -1,0 +1,9 @@
+.*
+*
+!*/
+!*.hs
+!*.rs
+!*.md
+!*.toml
+!.github
+!.gitignore
